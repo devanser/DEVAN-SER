@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img src="mhttps://i.imgur.com/sSKNe5K.jpeg" alt="devan" width="170" />
+<img src="mhttps://i.imgur.com/sSKNe5K.jpeg" alt="https://i.imgur.com/sSKNe5K.jpeg" width="170" />
 
 # DEVANSER Bot
 <p align="center">
