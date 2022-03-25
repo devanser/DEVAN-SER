@@ -1,10 +1,10 @@
 
 <div align="center">
-</p>https://i.imgur.com/sSKNe5K.jpeg
+</p>
 
 
 <div align="center">
-<img src="media/DEVAN-SERimg.jpg" alt="devan" width="170" />
+<img src="mhttps://i.imgur.com/sSKNe5K.jpeg" alt="devan" width="170" />
 
 # DEVANSER Bot
 <p align="center">
