@@ -198,12 +198,12 @@ exports.rulesBot = (prefix) => {
 
 2. ᴅᴏɴᴛ ᴄᴀʟʟ
 
-3. ᴅᴏɴT ᴘᴍ
+3. ᴍꜱɢ ᴘᴍ
 
 ᴛᴏ ᴜsᴇ ʙᴏᴛ ${prefix}ᴍᴇɴᴜ
 
 ᴏᴡɴᴇʀ ʙᴏᴛ:
-wa.me/6587255582
+wa.me/918547411641
 `
 }
 exports.Menu = (prefix) => {
