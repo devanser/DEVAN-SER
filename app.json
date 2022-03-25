@@ -1,7 +1,7 @@
 {
-  "name": "DEVANSER",
-  "description": "DEVANSER is a whatsapp bot made by @pepe sir with baileys",
-  "repository": "https://github.com/devanser/DEVANSER",
+  "name": "DEVAN-SER",
+  "description": "DEVAN-SER is a whatsapp bot made by @devan sir with baileys",
+  "repository": "https://github.com/devanser/DEVAN-SER",
   "logo": "https://i.imgur.com/l0AjsMa.jpeg",
   "keywords": ["bosco", "nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
