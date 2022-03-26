@@ -1,6 +1,6 @@
 /* 
 Don't change credits🥲🚶
-Sourcecode https://github.com/devan/DEVANSER
+Sourcecode https://github.com/devan/DEVAN-SER
 Want to recode? yes, it's up to you as long as you don't change the watermark
 Don't sell the SC 😐👌
 */
@@ -177,22 +177,22 @@ nocache('../message/help.js', module => console.log(color('[WATCH]', 'cyan'), co
   } else if(!anu.desc == ''){
     tag = anu.descOwner.split('@')[0] + '@s.whatsapp.net'
     teks = `*[ Gʀᴏᴜᴘ Dɪsᴄʀɪᴘᴛɪᴏɴ Cʜᴀɴɢᴇ ]*\n\n • *ɴᴇᴡ* : *${anu.desc}*`
-    DEVANSER.sendMessage(metdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [tag]}, quoted: falfa})
+    DEVAN-SER.sendMessage(metdata.id, teks, MessageType.text, {contextInfo: {"mentionedJid": [tag]}, quoted: falfa})
     console.log(clc.yellow(`[ Group Description Change ] In ${metdata.subject}`))
  } else if(anu.restrict == 'false'){
     teks = `*[ Gʀᴏᴜᴘ Sᴇᴛᴛɪɴɢs Cʜᴀɴɢᴇ ]*\n`
-    DEVANSER.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
+    DEVAN-SER.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
     console.log(clc.yellow(`[ Group Setting Change ] In ${metdata.subject}`))
   } else if(anu.restrict == 'true'){
     teks = `*[ Gʀᴏᴜᴘ Sᴇᴛᴛɪɴɢ Cʜᴀɴɢᴇ ]*\n`
-    DEVANSER.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
+    DEVAN-SER.sendMessage(metdata.id, teks, MessageType.text, {quoted: falfa})
     console.log(clc.yellow(`[ Group Setting Change ] In ${metdata.subject}`))
    }
 })
 
     
-	DEVANSER.on('chat-update', async (message) => {
-		require('./DEVANSER.js')(DEVANSER, message)
+	DEVAN-SER.on('chat-update', async (message) => {
+		require('./DEVAN-SER.js')(DEVAN-SER, message)
 	})
 }
 
