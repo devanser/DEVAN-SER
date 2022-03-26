@@ -22,7 +22,7 @@
 ---
 
 ### `SIMPLE METHOD`
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@devanser/DEVANSER-Qr-code?v=1) 
+[![Run on Repl.it](https://replit.com/@devanser/RingedUnfoldedComputergames#index.js) 
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devanser/DEVAN-SER/)
